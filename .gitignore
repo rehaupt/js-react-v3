@@ -29,3 +29,17 @@ yarn-error.log*
 /.changelog
 .npm/
 .eslintcache
+
+	.circleci/
+
+	.github/
+	.mergify.yml
+	.npmrc
+
+	LICENSE
+
+
+
+
+
+	yarn.lock
